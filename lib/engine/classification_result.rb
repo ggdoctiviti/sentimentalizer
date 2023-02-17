@@ -28,8 +28,8 @@ class TokenProbability
 end
 
 class Sentiment
-  POSITIVE = ':)'
-  NEGATIVE = ':('
-  NEUTRAL  = ':|'
+  POSITIVE = 'Yes'
+  NEGATIVE = 'No'
+  NEUTRAL  = 'N/A'
 end
 
